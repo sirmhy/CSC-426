@@ -1,5 +1,5 @@
 <?php
-// Author: Lawrence Emmanuel
+// Author: Fagbola Samuel
 // CSC426 Web Assignment
 
 $message = "";
