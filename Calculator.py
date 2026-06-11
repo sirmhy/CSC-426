@@ -1,4 +1,4 @@
-# Author: Lawrence Emmanuel
+# Author: Fagbola Samuel
 # CSC426  Assignment
 
 import tkinter as tk
